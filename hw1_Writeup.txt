@@ -1,0 +1,8 @@
+Homework 1
+Ming Creekmore
+mec5765
+CS331 Jansen Orfan
+
+1. The results for searching from cold to warm ended in no solution.
+2. The results for searching from small to short gave a solution with
+   5 steps: small, shall, shale, share, shore, short
